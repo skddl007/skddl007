@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skddl007&label=Profile%20views&color=0e75b6&style=flat" alt="skddl007" /> </p>
 
-- 🌱 I’m currently learning **Express js, MongoDB**
+- 🌱 I’m currently learning **FastAPI ,AI/ML**
 
 - 💬 Ask me about **Python, React JS, HTML, CSS, Flask**
 
