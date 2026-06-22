@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skddl007&label=Profile%20views&color=0e75b6&style=flat" alt="skddl007" /> </p>
 
-- 🌱 I’m currently learning **FastAPI ,AI/ML**
+- 🌱 I’m currently learning **Agentic AI, AI Agents, GenAI**
 
-- 💬 Ask me about **Python, React JS, HTML, CSS, Flask**
+- 💬 Ask me about **Python, React JS, HTML, CSS, Flask, FastAPI, AI/ML**
 
 - 📫 How to reach me **ddlsandeep7@gmail.com**
 
